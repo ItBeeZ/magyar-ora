@@ -1,5 +1,4 @@
 import random
-from colorama import Fore, Style
 
 lista = ['Szalay Balázs', 'Czene Bálint', 'Hrabovszki Bálint', 'Erdélyi Barnabás', 'Kőszegi Bence', 'Lajos Boton', 'Kovács Dávid', 'Eszenyi Panna', 'Zátonyi Gábor', 'Gál Gréta', 'Szijjárto Gyula', 'Halász Sándor', 'Dudaszeg Krisztián', 'Kurtucz Krisztián', 'Nagy László Krisztián', 'Gaál Levente', 'Varga Levente', 'Madarász Máté', 'Zsuzsa Mihály', 'Miklos Dávid', 'Molnár Norman', 'Szendy Norbert', 'Beke Richárd', 'Szegedi Richárd', 'Rostás Szilárd', 'Tiba Bálint', 'Vicze Sándor', 'Balassa Zalán', 'Futaki Zoltán', 'Kiss Zoltán', 'Somogyi Zsombor']
 
@@ -25,3 +24,4 @@ while len(upper) > 0:
         gen = random.choice(upper)
         
 
+print('Reméljük mindenki sikeresen lefelelt!')
