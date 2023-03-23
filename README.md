@@ -13,3 +13,4 @@ Magyar órai felelésekre való név generátor, két fájl tartalmaz az egyik s
 
     3. Valami kisebb 'díszitést'
        a printekre
+
