@@ -22,6 +22,9 @@ while len(upper) > 0:
         gen = random.choice(upper)
     if not gen in upper:
         gen = random.choice(upper)
-        
 
 print('Reméljük mindenki sikeresen lefelelt!')
+
+input()
+input()
+input()
